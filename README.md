@@ -1,0 +1,2 @@
+# images
+blog、typroa imags
